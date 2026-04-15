@@ -1,0 +1,13 @@
+{
+  "name": "shopease-notification-system",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "node example.js"
+  },
+  "author": "Ilies",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
